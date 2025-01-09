@@ -559,7 +559,7 @@ svg {
     font-size: var(--h1-font-size);
     font-weight: var(--font-semi-bold);
     margin-bottom: 0.25rem;
-    margin: 0 auto;
+    margin-left: 0.75rem;
 }
 
 .footer__title span{
@@ -568,7 +568,7 @@ svg {
 
 .footer__education{
     font-size: var(--normal-font-size);
-    margin: 0 auto;
+    margin-left: 0.75rem;
 }
 
 /* .footer__social{
@@ -591,13 +591,12 @@ svg {
     transform: transalteY(-0.25rem);
 }
  */
- 
+
 .footer__copy{
     display: flex;
     font-size: var(--smalller-font-size);
     text-align: center;
     margin: 0 auto;
-    
 }
 
 /* SCROLL BAR */
